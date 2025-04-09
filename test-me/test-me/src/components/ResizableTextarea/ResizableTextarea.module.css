@@ -1,0 +1,9 @@
+.textArea {
+    margin: 5px 0;
+    resize: none;
+    width: 99%;
+}
+
+.nested {
+    width: 85%;
+}

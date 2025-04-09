@@ -1,0 +1,12 @@
+.variableButton {
+    margin: 5px;
+    background-color: #95ee7b;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.variableButton:hover {
+    background-color: #2dea15;
+}

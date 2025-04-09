@@ -1,0 +1,49 @@
+.container {
+    padding: 10px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    max-width: 500px;
+    margin: 50px auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.previewHeader {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 10px 0;
+    text-align: center;
+}
+
+.preview {
+    margin: 10px 5px;
+    border: 1px solid black;
+    padding: 10px;
+    line-height: 20px;
+}
+
+.closeButtonDiv {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.closeButton {
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+.varLabel {
+    font-weight: bold;
+}
+
+.variables {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 5px;
+}
+
+
